@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.GuessIt/bin/Debug/net6.0/LeyvaM.GuessIt
+/Users/manuel/Documents/LeyvaM.GuessIt/bin/Debug/net6.0/LeyvaM.GuessIt.deps.json
+/Users/manuel/Documents/LeyvaM.GuessIt/bin/Debug/net6.0/LeyvaM.GuessIt.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.GuessIt/bin/Debug/net6.0/LeyvaM.GuessIt.dll
+/Users/manuel/Documents/LeyvaM.GuessIt/bin/Debug/net6.0/LeyvaM.GuessIt.pdb
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.dll
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/refint/LeyvaM.GuessIt.dll
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.pdb
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/LeyvaM.GuessIt.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.GuessIt/obj/Debug/net6.0/ref/LeyvaM.GuessIt.dll

@@ -4,3 +4,4 @@
 //what ever number lies between the first number and last number, you have to guess the number the program 
 //has chossen, durring the process of picking your number the program will tell you if its too high or too low
 //Once you figure of the programs number it will tell you how many tries it took you to get the number.
+Peer reviewed: Jeremy Lapham. Awesome program I love it and I love the Bro's its very funny. Works perfectly I love it
